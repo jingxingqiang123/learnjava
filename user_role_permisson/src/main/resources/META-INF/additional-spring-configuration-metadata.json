@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "mybatis-plus.db-column-underline",
+      "type": "java.lang.String",
+      "description": "Description for mybatis-plus.db-column-underline."
+    },
+    {
+      "name": "mybatis-plus.map-underscore-to-camel-case",
+      "type": "java.lang.String",
+      "description": "Description for mybatis-plus.map-underscore-to-camel-case."
+    }
+  ] }

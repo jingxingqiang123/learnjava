@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!--nameapce:名称空间,用于隔离sql语句,必须是所对应Mapper接口的全路径名(包名.接口名)-->
+<mapper namespace="com.demo.System.user.mapper.UserMapper">
+<!--    <select id="getAllUser" resultType="com.demo.entity.UserEntity">-->
+<!--        select *-->
+<!--        from T_USER-->
+<!--   </select>-->
+    <insert id="insertUserRole">
+        insert into T_USER_R_ROLE(user_id,role_id)
+        values (#{userId},#{roleId})
+    </insert>
+</mapper>
