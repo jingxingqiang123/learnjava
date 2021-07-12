@@ -1,9 +1,2 @@
-this is git first test
-this is two line modify
-
-git three modify 
-Git has a mutable index called stage.
-Git tracks changes of files.
-=======================add
-
-
+java 学习
+ 1、基于注解的权限控制
