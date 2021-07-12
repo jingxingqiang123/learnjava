@@ -1,7 +1,7 @@
-package com.demo.System.user.service.impl;
+package com.demo.system.user.service.impl;
 
-import com.demo.System.user.mapper.UserMapper;
-import com.demo.System.user.service.UserService;
+import com.demo.system.user.mapper.UserMapper;
+import com.demo.system.user.service.UserService;
 import com.demo.entity.UserEntity;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

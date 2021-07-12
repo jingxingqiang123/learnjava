@@ -1,4 +1,4 @@
-package com.demo.System.user.service;
+package com.demo.system.user.service;
 
 import com.demo.entity.UserEntity;
 

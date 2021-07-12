@@ -5,7 +5,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-@MapperScan(value = "com.demo.System.user.mapper")
+@MapperScan(value = "com.demo.system.user.mapper")
 public class ControlleraspectApplication {
 
     public static void main(String[] args) {
