@@ -1,6 +1,6 @@
-package com.demo.system.user.controller;
+package com.demo.user.controller;
 
-import com.demo.system.user.service.RoleService;
+import com.demo.user.service.RoleService;
 import com.demo.aspect.RightsController;
 import com.demo.common.constant.RoleConstant;
 import com.demo.entity.UserEntity;

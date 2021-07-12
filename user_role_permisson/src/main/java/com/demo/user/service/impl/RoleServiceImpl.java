@@ -1,8 +1,8 @@
-package com.demo.system.user.service.impl;
+package com.demo.user.service.impl;
 
-import com.demo.system.user.mapper.RoleMapper;
-import com.demo.system.user.mapper.UserMapper;
-import com.demo.system.user.service.RoleService;
+import com.demo.user.mapper.RoleMapper;
+import com.demo.user.mapper.UserMapper;
+import com.demo.user.service.RoleService;
 import com.demo.entity.UserEntity;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

@@ -3,7 +3,7 @@
         PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
         "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 <!--nameapce:名称空间,用于隔离sql语句,必须是所对应Mapper接口的全路径名(包名.接口名)-->
-<mapper namespace="com.demo.system.user.mapper.UserMapper">
+<mapper namespace="com.demo.user.mapper.UserMapper">
 <!--    <select id="getAllUser" resultType="com.demo.entity.UserEntity">-->
 <!--        select *-->
 <!--        from T_USER-->

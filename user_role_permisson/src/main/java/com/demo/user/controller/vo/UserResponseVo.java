@@ -1,4 +1,4 @@
-package com.demo.system.user.controller.vo;
+package com.demo.user.controller.vo;
 
 import com.demo.entity.RoleEntity;
 import com.demo.entity.UserEntity;
